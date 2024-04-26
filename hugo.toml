@@ -1,0 +1,16 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'My New Hugo Site'
+theme = 'relearn'
+[params]
+disableSearch = true
+showVisitedLinks = false
+disableLandingPageButton = true
+
+[params.author]
+    name = 'Hellström'
+
+ [[params.themeVariant]]
+    auto = ['zen-light', 'zen-dark']
+    identifier = 'zen-auto'
+    name = 'Zen Light/Dark'
