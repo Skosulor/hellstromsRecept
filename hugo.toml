@@ -2,10 +2,14 @@ baseURL = 'https://example.org/'
 languageCode = 'en-us'
 title = 'My New Hugo Site'
 theme = 'relearn'
+
 [params]
-disableSearch = true
+disableSearch = false
 showVisitedLinks = false
 disableLandingPageButton = true
+
+[outputs]
+  home = ['html', 'rss', 'search', 'searchpage']
 
 [params.author]
     name = 'Hellström'
