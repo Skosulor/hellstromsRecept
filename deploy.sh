@@ -1,6 +1,7 @@
 #!/bin/bash
 
 cd "$(dirname "$0")"
+git fetch origin master
 gitStatus=$(git status -sb)
 compare='behind'
 
