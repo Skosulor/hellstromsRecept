@@ -8,5 +8,5 @@ if [[ "$gitStatus" == *"$compare"* ]]; then
     rm -rf public
     hugo
     rm -rf /var/www
-    cp -r public/* /var/www/
+    mv public /var/www
 fi
