@@ -7,6 +7,4 @@ if [[ "$gitStatus" == *"$compare"* ]]; then
     git pull
     rm -rf public
     hugo
-    rm -rf /var/www
-    mv public /var/www
 fi
