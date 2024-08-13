@@ -14,7 +14,7 @@ date = 2024-08-13T10:07:08+02:00
 - 1 del fisk sås
 - En skvätt sesam olja
 
-*Tilläg*
+*Tillägg*
 
 - Riven ingefära
 - Risvinäger 
