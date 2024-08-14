@@ -6,7 +6,7 @@ date = 2024-08-13T10:07:08+02:00
 
 **Ingredienser**
 
-*Bar sås* 
+*Bas sås* 
 
 - 3 delar japansk soja
 - 3 delar vatten
