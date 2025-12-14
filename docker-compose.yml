@@ -1,0 +1,7 @@
+services:
+  recept:
+    build: .
+    container_name: recept
+    ports:
+      - "3001:3000"
+    restart: unless-stopped
